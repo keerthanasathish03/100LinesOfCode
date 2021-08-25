@@ -14,3 +14,5 @@ for num in range(7, pages):
     text = page.extractText()
     engine.say(text)
     engine.runAndWait()
+    
+    #Link to the pdf book: https://www.tutorialspoint.com/object_oriented_python/object_oriented_python_tutorial.pdf
